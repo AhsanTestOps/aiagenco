@@ -11,7 +11,7 @@
   "dependencies": {
     "@headlessui/react": "^2.1.8",
     "@lottiefiles/dotlottie-react": "^0.18.10",
-    "@next/third-parties": "^14.2.13",
+    "@next/third-parties": "^14.2.35",
     "clsx": "^2.1.1",
     "embla-carousel-auto-scroll": "^8.6.0",
     "embla-carousel-react": "^8.6.0",

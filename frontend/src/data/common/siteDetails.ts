@@ -8,5 +8,5 @@ export const siteDetails = {
     language: 'en-us',
     locale: 'en-US',
     siteLogo: '/images/122.png',
-    googleAnalyticsId: '', // e.g. G-XXXXXXX,
+    googleAnalyticsId: 'G-YB3FLMFBS0',
 }
