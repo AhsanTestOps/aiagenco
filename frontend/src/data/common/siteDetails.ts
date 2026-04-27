@@ -1,6 +1,6 @@
 export const siteDetails = {
     siteName: 'Aiagenco',
-    siteUrl: 'https://finwise-omega.vercel.app/',
+    siteUrl: 'https://aiagenco-omega.vercel.app/',
     metadata: {
         title: 'Aiagenco - Next.js and Tailwind CSS Landing Page Template',
         description: 'Aiagenco empowers businesses with cutting-edge technology solutions to drive success and efficiency.',

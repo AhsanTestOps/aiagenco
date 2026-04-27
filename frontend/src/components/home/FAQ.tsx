@@ -19,7 +19,7 @@ const FAQ: React.FC = () => {
                     <p className="text-lg text-foreground-accent">
                         {t("faq.askUs")}
                     </p>
-                    <a href="mailto:help@finwise.com" className="mt-4 block text-2xl lg:text-3xl text-secondary font-bold hover:scale-105 transition-transform duration-300">help@finwise.com</a>
+                    <a href="mailto:help@aiagenco.com" className="mt-4 block text-2xl lg:text-3xl text-secondary font-bold hover:scale-105 transition-transform duration-300">help@aiagenco.com</a>
                 </div>
 
                 <div className="w-full border-b">

@@ -84,32 +84,32 @@
         "description": "Hear from those who have partnered with us.",
         "item1Name": "John Smith",
         "item1Role": "CEO at Company",
-        "item1Message": "Finwise's AI-driven insights have transformed how we approach financial planning for our clients. It's an invaluable resource in the modern financial landscape.",
+        "item1Message": "Aiagenco's AI-driven insights have transformed how we approach financial planning for our clients. It's an invaluable resource in the modern financial landscape.",
         "item2Name": "Jane Doe",
         "item2Role": "CTO at Startup",
-        "item2Message": "As a CTO, I'm impressed by Finwise's robust security measures and seamless integrations. It's rare to find an app that balances user-friendliness with such advanced technology.",
+        "item2Message": "As a CTO, I'm impressed by Aiagenco's robust security measures and seamless integrations. It's rare to find an app that balances user-friendliness with such advanced technology.",
         "item3Name": "Emily Johnson",
         "item3Role": "Product Manager",
-        "item3Message": "Finwise is revolutionizing personal finance management. Its intuitive design and powerful features make it an indispensable tool for anyone serious about financial growth."
+        "item3Message": "Aiagenco is revolutionizing personal finance management. Its intuitive design and powerful features make it an indispensable tool for anyone serious about financial growth."
     },
     "faq": {
         "label": "FAQ'S",
         "heading": "Frequently Asked Questions",
         "askUs": "Ask us anything!",
-        "q1": "Is Finwise secure?",
+        "q1": "Is Aiagenco secure?",
         "a1": "Absolutely. We use bank-level encryption to protect your data and never store your login information. Plus, our biometric authentication adds an extra layer of security.",
-        "q2": "Can I use Finwise on multiple devices?",
-        "a2": "Absolutely! Your Finwise account syncs seamlessly across all your devices - smartphone, tablet, and computer.",
+        "q2": "Can I use Aiagenco on multiple devices?",
+        "a2": "Absolutely! Your Aiagenco account syncs seamlessly across all your devices - smartphone, tablet, and computer.",
         "q3": "Can I connect all my bank accounts?",
-        "a3": "Yes! Finwise supports connections with over 10,000 financial institutions worldwide. Simply log in through our secure portal to link your accounts.",
+        "a3": "Yes! Aiagenco supports connections with over 10,000 financial institutions worldwide. Simply log in through our secure portal to link your accounts.",
         "q4": "Do I need any financial expertise to use the investing features?",
         "a4": "Not at all! Our expert-curated portfolios and educational resources make investing accessible to everyone, regardless of experience level.",
         "q5": "What if I need help using the app?",
-        "a5": "Our dedicated support team is available 24/7 via chat or email. Plus, we offer extensive in-app tutorials and a comprehensive knowledge base to help you make the most of Finwise."
+        "a5": "Our dedicated support team is available 24/7 via chat or email. Plus, we offer extensive in-app tutorials and a comprehensive knowledge base to help you make the most of Aiagenco."
     },
     "cta": {
         "heading": "Join Over 1 Million Users To Transform Your Finances",
-        "subheading": "Your journey to financial freedom starts here. Download Finwise today and take the first step towards a brighter financial future!"
+        "subheading": "Your journey to financial freedom starts here. Download Aiagenco today and take the first step towards a brighter financial future!"
     },
     "footer": {
         "subheading": "Empowering businesses with cutting-edge financial technology solutions.",
@@ -137,7 +137,7 @@
         "section1Bullet3Title": "Predictive Analysis",
         "section1Bullet3Desc": "Get ahead of your finances with spending forecasts and alerts.",
         "section2Title": "Seamless Investing",
-        "section2Desc": "Start building wealth today, no financial degree required. Finwise makes investing accessible and straightforward.",
+        "section2Desc": "Start building wealth today, no financial degree required. Aiagenco makes investing accessible and straightforward.",
         "section2Bullet1Title": "Micro-Investing",
         "section2Bullet1Desc": "Begin with as little as $1 and watch your money grow.",
         "section2Bullet2Title": "Expert Portfolios",
@@ -145,7 +145,7 @@
         "section2Bullet3Title": "Real-Time Performance",
         "section2Bullet3Desc": "Track your investments with easy-to-understand metrics and visuals.",
         "section3Title": "Bank-Grade Security",
-        "section3Desc": "Your financial data deserves the best protection. Rest easy knowing Finwise employs cutting-edge security measures.",
+        "section3Desc": "Your financial data deserves the best protection. Rest easy knowing Aiagenco employs cutting-edge security measures.",
         "section3Bullet1Title": "Military-Grade Encryption",
         "section3Bullet1Desc": "Your information is safeguarded with the highest level of encryption.",
         "section3Bullet2Title": "Biometric Authentication",
@@ -239,7 +239,7 @@
     },
     "blogs_page": {
         "hero_title": "Stories Built <br /> for <span class=\"text-[#7c3aed]\">Real Minds.</span>",
-        "hero_subtitle": "Deep dives into AI, machine learning, and digital strategy from the experts at Finwise.",
+        "hero_subtitle": "Deep dives into AI, machine learning, and digital strategy from the experts at Aiagenco.",
         "hero_cta": "Explore Blogs",
         "read_time": "min Read",
         "blogs": {

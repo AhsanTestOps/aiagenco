@@ -84,32 +84,32 @@
         "description": "Bizimle ortaklık kuranlardan dinleyin.",
         "item1Name": "John Smith",
         "item1Role": "Şirket CEO'su",
-        "item1Message": "Finwise'ın yapay zeka odaklı öngörüleri, müşterilerimiz için finansal planlamaya yaklaşımımızı dönüştürdü. Modern finansal dünyada paha biçilmez bir kaynak.",
+        "item1Message": "Aiagenco'ın yapay zeka odaklı öngörüleri, müşterilerimiz için finansal planlamaya yaklaşımımızı dönüştürdü. Modern finansal dünyada paha biçilmez bir kaynak.",
         "item2Name": "Jane Doe",
         "item2Role": "Girişim CTO'su",
-        "item2Message": "Bir CTO olarak, Finwise'ın sağlam güvenlik önlemlerinden ve sorunsuz entegrasyonlarından etkilendim. Kullanıcı dostu olmayı bu kadar ileri teknolojiyle dengeleyen bir uygulama bulmak nadirdir.",
+        "item2Message": "Bir CTO olarak, Aiagenco'ın sağlam güvenlik önlemlerinden ve sorunsuz entegrasyonlarından etkilendim. Kullanıcı dostu olmayı bu kadar ileri teknolojiyle dengeleyen bir uygulama bulmak nadirdir.",
         "item3Name": "Emily Johnson",
         "item3Role": "Ürün Yöneticisi",
-        "item3Message": "Finwise, kişisel finans yönetiminde devrim yaratıyor. Sezgisel tasarımı ve güçlü özellikleri, finansal büyüme konusunda ciddi olan herkes için onu vazgeçilmez bir araç haline getiriyor."
+        "item3Message": "Aiagenco, kişisel finans yönetiminde devrim yaratıyor. Sezgisel tasarımı ve güçlü özellikleri, finansal büyüme konusunda ciddi olan herkes için onu vazgeçilmez bir araç haline getiriyor."
     },
     "faq": {
         "label": "SSS",
         "heading": "Sıkça Sorulan Sorular",
         "askUs": "Bize her şeyi sorun!",
-        "q1": "Finwise güvenli mi?",
+        "q1": "Aiagenco güvenli mi?",
         "a1": "Kesinlikle. Verilerinizi korumak için banka düzeyinde şifreleme kullanıyoruz ve giriş bilgilerinizi asla saklamıyoruz. Ayrıca biyometrik kimlik doğrulamamız ekstra bir güvenlik katmanı ekler.",
-        "q2": "Finwise'ı birden fazla cihazda kullanabilir miyim?",
-        "a2": "Elbette! Finwise hesabınız tüm cihazlarınız arasında sorunsuz bir şekilde senkronize olur - akıllı telefon, tablet ve bilgisayar.",
+        "q2": "Aiagenco'ı birden fazla cihazda kullanabilir miyim?",
+        "a2": "Elbette! Aiagenco hesabınız tüm cihazlarınız arasında sorunsuz bir şekilde senkronize olur - akıllı telefon, tablet ve bilgisayar.",
         "q3": "Tüm banka hesaplarımı bağlayabilir miyim?",
-        "a3": "Evet! Finwise dünya genelinde 10.000'den fazla finans kuruluşuyla bağlantıyı destekler. Hesaplarınızı bağlamak için güvenli portalımız üzerinden giriş yapmanız yeterlidir.",
+        "a3": "Evet! Aiagenco dünya genelinde 10.000'den fazla finans kuruluşuyla bağlantıyı destekler. Hesaplarınızı bağlamak için güvenli portalımız üzerinden giriş yapmanız yeterlidir.",
         "q4": "Yatırım özelliklerini kullanmak için finansal uzmanlığa ihtiyacım var mı?",
         "a4": "Hiç de değil! Uzman tarafından hazırlanmış portföylerimiz ve eğitim kaynaklarımız, deneyim seviyesine bakılmaksızın yatırımı herkes için erişilebilir hale getirmektedir.",
         "q5": "Uygulamayı kullanırken yardıma ihtiyacım olursa ne yapmalıyım?",
-        "a5": "Özel destek ekibimiz sohbet veya e-posta yoluyla 7/24 hizmetinizdedir. Ayrıca, Finwise'dan en iyi şekilde yararlanmanıza yardımcı olmak için kapsamlı uygulama içi eğitimler ve geniş bir bilgi bankası sunuyoruz."
+        "a5": "Özel destek ekibimiz sohbet veya e-posta yoluyla 7/24 hizmetinizdedir. Ayrıca, Aiagenco'dan en iyi şekilde yararlanmanıza yardımcı olmak için kapsamlı uygulama içi eğitimler ve geniş bir bilgi bankası sunuyoruz."
     },
     "cta": {
         "heading": "Finanslarınızı Dönüştürmek İçin 1 Milyondan Fazla Kullanıcıya Katılın",
-        "subheading": "Finansal özgürlüğe giden yolculuğunuz burada başlıyor. Finwise'ı bugün indirin ve daha parlak bir finansal gelecek için ilk adımı atın!"
+        "subheading": "Finansal özgürlüğe giden yolculuğunuz burada başlıyor. Aiagenco'ı bugün indirin ve daha parlak bir finansal gelecek için ilk adımı atın!"
     },
     "footer": {
         "subheading": "İşletmeleri en son finansal teknoloji çözümleriyle güçlendiriyoruz.",
@@ -137,7 +137,7 @@
         "section1Bullet3Title": "Öngörülü Analiz",
         "section1Bullet3Desc": "Harcama tahminleri ve uyarılarla finansınızın önüne geçin.",
         "section2Title": "Kesintisiz Yatırım",
-        "section2Desc": "Bugün servet biriktirmeye başlayın, finans diplomasına gerek yok. Finwise yatırımı erişilebilir ve basit hale getirir.",
+        "section2Desc": "Bugün servet biriktirmeye başlayın, finans diplomasına gerek yok. Aiagenco yatırımı erişilebilir ve basit hale getirir.",
         "section2Bullet1Title": "Mikro Yatırım",
         "section2Bullet1Desc": "1 dolar kadar az bir miktarla başlayın ve paranızın büyümesini izleyin.",
         "section2Bullet2Title": "Uzman Portföyleri",
@@ -145,7 +145,7 @@
         "section2Bullet3Title": "Gerçek Zamanlı Performans",
         "section2Bullet3Desc": "Yatırımlarınızı anlaşılması kolay metrikler ve görsellerle takip edin.",
         "section3Title": "Banka Düzeyinde Güvenlik",
-        "section3Desc": "Finansal verileriniz en iyi korumayı hak ediyor. Finwise'ın en son güvenlik önlemlerini kullandığını bilerek içiniz rahat olsun.",
+        "section3Desc": "Finansal verileriniz en iyi korumayı hak ediyor. Aiagenco'ın en son güvenlik önlemlerini kullandığını bilerek içiniz rahat olsun.",
         "section3Bullet1Title": "Askeri Düzeyde Şifreleme",
         "section3Bullet1Desc": "Bilgileriniz en yüksek düzeyde şifreleme ile korunmaktadır.",
         "section3Bullet2Title": "Biyometrik Kimlik Doğrulama",
@@ -239,7 +239,7 @@
     },
     "blogs_page": {
         "hero_title": "Gerçek Zihinler <br /> İçin İnşa Edilen <span class=\"text-[#7c3aed]\">Hikayeler.</span>",
-        "hero_subtitle": "Finwise uzmanlarından yapay zeka, makine öğrenimi ve dijital strateji üzerine derinlemesine incelemeler.",
+        "hero_subtitle": "Aiagenco uzmanlarından yapay zeka, makine öğrenimi ve dijital strateji üzerine derinlemesine incelemeler.",
         "hero_cta": "Blogları Keşfedin",
         "read_time": "dk Okuma",
         "blogs": {
