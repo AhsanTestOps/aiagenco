@@ -1,41 +1,8 @@
 "use client";
 
 import { useState } from "react";
-<<<<<<< HEAD
-import Cont from "./Cont";
-
-const values = [
-  {
-    title: "Innovation",
-    body: "We are constantly exploring new technologies and methodologies to stay ahead of the curve. Innovation is at the heart of everything we do, driving us to develop creative and effective solutions for our clients.",
-  },
-  {
-    title: "Quality",
-    body: "We are committed to delivering the highest quality in everything we build. From code to design, every detail is refined to meet and exceed client expectations.",
-  },
-  {
-    title: "Customer-Centric Approach",
-    body: "Our clients are at the core of every decision we make. We listen, adapt, and tailor our solutions to ensure the best outcomes for each unique business challenge.",
-  },
-  {
-    title: "Integrity",
-    body: "We operate with transparency and honesty in all our interactions. Trust is the foundation of every partnership we build.",
-  },
-  {
-    title: "Teamwork",
-    body: "Great things are built together. Our collaborative culture brings diverse talent and perspectives to deliver solutions that are stronger as a whole.",
-  },
-];
-
-const stats = [
-  { num: "99.9", suffix: "%+", label: "Uptime Across Production" },
-  { prefix: "$", num: "220M", suffix: "+", label: "Technology Driven Value" },
-  { num: "650", suffix: "+", label: "Business Partnerships" },
-  { num: "107", suffix: "+", label: "Global Markets" },
-];
-=======
 import { useTranslation } from "react-i18next";
->>>>>>> e511a38f850a29e7d053c95efde841a065d72775
+import Cont from "./Cont";
 
 export default function About() {
   const { t } = useTranslation();
