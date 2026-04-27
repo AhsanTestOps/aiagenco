@@ -1,10 +1,12 @@
 {
   "experimentalServices": {
     "frontend": {
-      "entrypoint": "frontend"
+      "entrypoint": "frontend",
+      "subdomain": "frontend"
     },
     "backend": {
-      "entrypoint": "backend"
+      "entrypoint": "backend",
+      "subdomain": "backend"
     }
   }
 }
