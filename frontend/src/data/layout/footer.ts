@@ -22,8 +22,8 @@ export const footerDetails: {
             url: "#testimonials"
         }
     ],
-    email: 'address@yoursite.com',
-    telephone: '+1 (123) 456-7890',
+    email: 'ahsan@aiagenco.dev',
+    telephone: '+92 -3429466136',
     socials: {
         // github: 'https://github.com',
         // x: 'https://twitter.com/x',

@@ -89,7 +89,7 @@ const ContactUs = () => {
 
   return (
     <section className="bg-white py-20 px-4 md:px-10 lg:px-20">
-      <div className="max-w-7xl mx-auto relative overflow-hidden">
+      <div className="max-w-7xl mx-auto bg-[#eef0f3] rounded-[40px] p-8 md:p-16 lg:p-20 relative overflow-hidden">
         {/* Contact Badge */}
         <div className="mb-8">
           <span className="border border-gray-300 text-gray-800 text-[10px] md:text-[12px] font-bold tracking-[0.2em] px-4 py-1.5 rounded-full uppercase inline-block">
@@ -139,11 +139,10 @@ const ContactUs = () => {
               </div>
 
               {message && (
-                <div className={`p-4 rounded-lg text-sm font-medium ${
-                  message.type === "success"
-                    ? "bg-green-100 text-green-800 border border-green-300"
-                    : "bg-red-100 text-red-800 border border-red-300"
-                }`}>
+                <div className={`p-4 rounded-lg text-sm font-medium ${message.type === "success"
+                  ? "bg-green-100 text-green-800 border border-green-300"
+                  : "bg-red-100 text-red-800 border border-red-300"
+                  }`}>
                   {message.text}
                 </div>
               )}
@@ -152,11 +151,10 @@ const ContactUs = () => {
                 <button
                   type="submit"
                   disabled={loading}
-                  className={`${
-                    loading
-                      ? "bg-gray-400 cursor-not-allowed"
-                      : "bg-[#7c3aed] hover:bg-[#6d28d9]"
-                  } text-white font-bold px-10 py-4 rounded-full transition-all duration-300 shadow-lg shadow-purple-500/20 active:scale-95 disabled:active:scale-100`}
+                  className={`${loading
+                    ? "bg-gray-400 cursor-not-allowed"
+                    : "bg-[#7c3aed] hover:bg-[#6d28d9]"
+                    } text-white font-bold px-10 py-4 rounded-full transition-all duration-300 shadow-lg shadow-purple-500/20 active:scale-95 disabled:active:scale-100`}
                 >
                   {loading ? "Sending..." : t("contact_us.submit_btn")}
                 </button>
@@ -198,10 +196,10 @@ const ContactUs = () => {
                     {t("contact_us.whatsapp_link")}
                   </a>
                   <a
-                    href="mailto:support@yourdomain.com"
+                    href="mailto:ahsan@aiagenco.dev"
                     className="text-[#8b5cf6] font-bold text-sm hover:underline block"
                   >
-                    support@yourdomain.com
+                    ahsan@aiagenco.dev
                   </a>
                 </div>
               </div>

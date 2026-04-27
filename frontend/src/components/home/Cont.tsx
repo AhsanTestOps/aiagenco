@@ -180,10 +180,10 @@ const ContactUs = () => {
                     Chat on WhatsApp
                   </a>
                   <a
-                    href="mailto:support@yourdomain.com"
+                    href="mailto:ahsan@aiagenco.dev"
                     className="text-[#8b5cf6] font-bold text-sm hover:underline block"
                   >
-                    support@yourdomain.com
+                    ahsan@aiagenco.dev
                   </a>
                 </div>
               </div>
