@@ -73,7 +73,7 @@ const ContactUs = () => {
   };
  return (
     <section className="bg-white py-20 px-4 md:px-10 lg:px-20">
-      <div className="max-w-7xl mx-auto bg-[#eef0f3] rounded-[40px] p-8 md:p-16 lg:p-20 relative overflow-hidden">
+      <div className="max-w-7xl mx-auto relative overflow-hidden">
         {/* Contact Badge */}
         <div className="mb-8">
           <span className="border border-gray-300 text-gray-800 text-[10px] md:text-[12px] font-bold tracking-[0.2em] px-4 py-1.5 rounded-full uppercase inline-block">
