@@ -1,8 +1,8 @@
 "use client";
 
+import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import { FaFingerprint } from 'react-icons/fa';
 
 import { siteDetails } from '@/data/common/siteDetails';
 import { footerDetails } from '@/data/layout/footer';
@@ -15,11 +15,14 @@ const Footer: React.FC = () => {
         <footer className="bg-hero-background text-foreground py-10">
             <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10">
                 <div>
-                    <Link href="/" className="flex items-center gap-2">
-                        <FaFingerprint className="min-w-fit w-5 h-5 md:w-7 md:h-7" />
-                        <h3 className="manrope text-xl font-semibold cursor-pointer">
-                            {siteDetails.siteName}
-                        </h3>
+                    <Link href="/" className="flex items-center gap-2 transition-transform hover:scale-105 w-fit">
+                        <Image 
+                            src={siteDetails.siteLogo} 
+                            alt={siteDetails.siteName} 
+                            width={160} 
+                            height={40} 
+                            className="w-auto h-8 md:h-10 object-contain"
+                        />
                     </Link>
                     <p className="mt-3.5 text-foreground-accent">
                         {t("footer.subheading")}
@@ -38,7 +41,7 @@ const Footer: React.FC = () => {
                 <div>
                     <h4 className="text-lg font-semibold mb-4">{t("footer.contactUs")}</h4>
 
-                    {footerDetails.email && <a href={`mailto:${footerDetails.email}`}  className="block text-foreground-accent hover:text-foreground">Email: {footerDetails.email}</a>}
+                    {footerDetails.email && <a href={`mailto:${footerDetails.email}`} className="block text-foreground-accent hover:text-foreground">Email: {footerDetails.email}</a>}
 
                     {footerDetails.telephone && <a href={`tel:${footerDetails.telephone}`} className="block text-foreground-accent hover:text-foreground">Phone: {footerDetails.telephone}</a>}
 
@@ -62,7 +65,7 @@ const Footer: React.FC = () => {
                 </div>
             </div>
             <div className="mt-8 md:text-center text-foreground-accent px-6">
-               
+
             </div>
         </footer>
     );

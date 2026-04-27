@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import LanguageSwitcher from "@/components/common/LanguageSwitcher";
 import { useTranslation } from "react-i18next";
@@ -7,7 +8,6 @@ import { useTranslation } from "react-i18next";
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
 import { HiOutlineXMark, HiBars3 } from "react-icons/hi2";
-import { FaFingerprint } from "react-icons/fa";
 
 import Container from "@/components/common/Container";
 import { siteDetails } from "@/data/common/siteDetails";
@@ -27,10 +27,14 @@ const Header: React.FC = () => {
         <nav className="shadow-md md:shadow-none bg-white md:bg-transparent flex items-center justify-between py-6 px-4 md:px-12 md:py-10 relative w-full">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 z-10 transition-transform hover:scale-105">
-            <FaFingerprint className="text-foreground min-w-fit w-8 h-8 md:w-9 md:h-9" />
-            <span className="manrope text-xl md:text-2xl font-bold text-foreground cursor-pointer tracking-tight">
-              {siteDetails.siteName}
-            </span>
+            <Image 
+              src={siteDetails.siteLogo} 
+              alt={siteDetails.siteName} 
+              width={160} 
+              height={40} 
+              className="w-auto h-8 md:h-10 object-contain"
+              priority
+            />
           </Link>
 
           {/* Desktop Menu - Centered */}
