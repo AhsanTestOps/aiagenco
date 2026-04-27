@@ -242,22 +242,6 @@ export default function Model() {
                     </h1>
                 </div>
 
-                <motion.button
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.8, duration: 0.6 }}
-                    whileHover={{ scale: 1.05 }}
-                    whileTap={{ scale: 0.95 }}
-                    className="self-start group relative flex items-center gap-3 px-8 py-4 rounded-full backdrop-blur-md overflow-hidden"
-                    style={{
-                        background: 'rgba(30, 15, 0, 0.7)',
-                        border: '1px solid rgba(251, 191, 36, 0.25)',
-                    }}
-                >
-                    <div className="absolute inset-0 bg-gradient-to-r from-amber-600/20 to-orange-600/20 opacity-0 group-hover:opacity-100 transition-opacity" />
-                    <span className="relative text-lg font-medium text-amber-100">{t("globe.contactBtn")}</span>
-                    <span className="relative text-xl text-amber-400 group-hover:-translate-y-1 group-hover:translate-x-1 transition-transform">&#8593;</span>
-                </motion.button>
             </motion.div>
 
             {/* Golden floating particles */}
