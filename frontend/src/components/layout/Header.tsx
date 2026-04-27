@@ -30,11 +30,14 @@ const Header: React.FC = () => {
             <Image 
               src={siteDetails.siteLogo} 
               alt={siteDetails.siteName} 
-              width={160} 
-              height={40} 
-              className="w-auto h-8 md:h-10 object-contain"
+              width={36} 
+              height={36} 
+              className="w-8 h-8 md:w-9 md:h-9 object-contain"
               priority
             />
+            <span className="manrope text-xl md:text-2xl font-bold text-foreground cursor-pointer tracking-tight">
+              {siteDetails.siteName}
+            </span>
           </Link>
 
           {/* Desktop Menu - Centered */}

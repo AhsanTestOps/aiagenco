@@ -19,10 +19,13 @@ const Footer: React.FC = () => {
                         <Image 
                             src={siteDetails.siteLogo} 
                             alt={siteDetails.siteName} 
-                            width={160} 
-                            height={40} 
-                            className="w-auto h-8 md:h-10 object-contain"
+                            width={28} 
+                            height={28} 
+                            className="w-5 h-5 md:w-7 md:h-7 object-contain"
                         />
+                        <h3 className="manrope text-xl font-semibold cursor-pointer">
+                            {siteDetails.siteName}
+                        </h3>
                     </Link>
                     <p className="mt-3.5 text-foreground-accent">
                         {t("footer.subheading")}
