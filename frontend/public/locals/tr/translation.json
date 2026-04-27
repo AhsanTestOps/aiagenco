@@ -1,0 +1,254 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "services": "Hizmetler",
+        "projects": "Projeler",
+        "blogs": "Blog",
+        "contact": "Bize Ulaşın"
+    },
+    "hero": {
+        "heading": "Geleceği Tasarlamak: Özel Yapay Zeka Ajanları, Yüksek Performanslı Web ve Hassas Kalite Güvencesi"
+    },
+    "section43": {
+        "yearTitle": "Kuruluş yılı",
+        "yearSubtitle": "Alanda 10 yıldan fazla deneyim",
+        "projectsTitle": "Tamamlanan projeler",
+        "projectsSubtitle": "Birçok proje tamamlandı",
+        "clientsTitle": "Memnun müşteriler",
+        "clientsSubtitle": "Bu insanlar bizi seviyor",
+        "inWorkTitle": "Devam eden projeler",
+        "inWorkSubtitle": "Şu anda üzerinde çalıştıklarımız"
+    },
+    "globe": {
+        "heading1": "Yarını İnşa Ediyoruz,",
+        "heading2": "Bugün",
+        "contactBtn": "Bize Ulaşın"
+    },
+    "techStack": {
+        "heading": "Teknoloji Yığınımız",
+        "description": "Yazılım geliştirme şirketimiz, kapsamlı bilgi ve deneyime sahip sertifikalı uzmanlardan oluşmaktadır:"
+    },
+    "ourProjects": {
+        "heading": "Projelerimiz",
+        "description": "Başarılı projeler ve memnun müşterilerden oluşan bir geçmişle, her çabada mükemmelliğe ulaşmayı hedefliyor ve en iyi çalışmamızın müşterilerimizin başarısı için bir katalizör olmasını sağlıyoruz.",
+        "exploreMore": "Daha Fazla Keşfet",
+        "project1Title": "Akıllı Seyahat Planlayıcı ve Öneri Sistemi",
+        "project1Desc": "Akıllı seyahat planlayıcımız, seyahati zahmetsiz hale getirmek için tasarlanmış yapay zeka destekli bir platformdur. Başlangıç noktanızı ve hedefinizi girerek, sistem özelleştirilmiş öneriler, optimal rotalar ve sorunsuz rezervasyon seçenekleri sunar.",
+        "project2Title": "SaaS Ürünü",
+        "project2Desc": "ERP SaaS ürünümüz, iş operasyonlarını basitleştiren ve birleştiren bulut tabanlı bir çözümdür. Kuruluşların tek bir sezgisel pano üzerinden finansları yönetmesini, envanteri takip etmesini, İK süreçlerini yönetmesini ve performansı izlemesini sağlar.",
+        "project3Title": "RAG Tabanlı Yapay Zeka İK Asistan Sistemi",
+        "project3Desc": "İnsan kaynakları operasyonlarını kolaylaştırmak ve otomatikleştirmek için tasarlanmış RAG tabanlı yapay zeka destekli İK ajanı. Sistem, dahili veritabanlarından ve referans PDF'lerden veri erişimi ve analizi için Retrieval-Augmented Generation (RAG) teknolojisinden yararlanır.",
+        "project4Title": "E-Ticaret Platformu",
+        "project4Desc": "Kesintisiz bir online alışveriş deneyimi sunmak için tasarlanmış modern bir e-ticaret platformu. Kullanıcılar ürünleri inceleyebilir, sepetlerine ekleyebilir ve güvenli bir şekilde satın alımlarını tamamlayabilir."
+    },
+    "blogs": {
+        "heading": "Bloglarımızla Öne Çıkın",
+        "label": "Blog",
+        "viewAll": "Tümünü Gör"
+    },
+    "pricing": {
+        "title": "Fiyatlandırma",
+        "description": "Basit, şeffaf fiyatlandırma. Sürpriz yok.",
+        "tier1Name": "Başlangıç",
+        "tier1Price": "29",
+        "tier1Features": [
+            "Temel bulut entegrasyonu",
+            "5 ekip üyesine kadar",
+            "20GB depolama",
+            "E-posta desteği"
+        ],
+        "tier2Name": "Pro",
+        "tier2Price": "99",
+        "tier2Features": [
+            "Gelişmiş bulut entegrasyonu",
+            "20 ekip üyesine kadar",
+            "100GB depolama",
+            "Öncelikli e-posta ve telefon desteği",
+            "Gelişmiş analitik"
+        ],
+        "tier3Name": "Kurumsal",
+        "tier3Price": "Özel",
+        "tier3Features": [
+            "Tam bulut entegrasyonu",
+            "Sınırsız ekip üyesi",
+            "Sınırsız depolama",
+            "7/24 özel destek",
+            "Özel çözümler",
+            "Yerinde eğitim"
+        ],
+        "cta": "Hemen Başlayın"
+    },
+    "testimonials": {
+        "title": "Müşterilerimiz Ne Diyor",
+        "description": "Bizimle ortaklık kuranlardan dinleyin.",
+        "item1Name": "John Smith",
+        "item1Role": "Şirket CEO'su",
+        "item1Message": "Finwise'ın yapay zeka odaklı öngörüleri, müşterilerimiz için finansal planlamaya yaklaşımımızı dönüştürdü. Modern finansal dünyada paha biçilmez bir kaynak.",
+        "item2Name": "Jane Doe",
+        "item2Role": "Girişim CTO'su",
+        "item2Message": "Bir CTO olarak, Finwise'ın sağlam güvenlik önlemlerinden ve sorunsuz entegrasyonlarından etkilendim. Kullanıcı dostu olmayı bu kadar ileri teknolojiyle dengeleyen bir uygulama bulmak nadirdir.",
+        "item3Name": "Emily Johnson",
+        "item3Role": "Ürün Yöneticisi",
+        "item3Message": "Finwise, kişisel finans yönetiminde devrim yaratıyor. Sezgisel tasarımı ve güçlü özellikleri, finansal büyüme konusunda ciddi olan herkes için onu vazgeçilmez bir araç haline getiriyor."
+    },
+    "faq": {
+        "label": "SSS",
+        "heading": "Sıkça Sorulan Sorular",
+        "askUs": "Bize her şeyi sorun!",
+        "q1": "Finwise güvenli mi?",
+        "a1": "Kesinlikle. Verilerinizi korumak için banka düzeyinde şifreleme kullanıyoruz ve giriş bilgilerinizi asla saklamıyoruz. Ayrıca biyometrik kimlik doğrulamamız ekstra bir güvenlik katmanı ekler.",
+        "q2": "Finwise'ı birden fazla cihazda kullanabilir miyim?",
+        "a2": "Elbette! Finwise hesabınız tüm cihazlarınız arasında sorunsuz bir şekilde senkronize olur - akıllı telefon, tablet ve bilgisayar.",
+        "q3": "Tüm banka hesaplarımı bağlayabilir miyim?",
+        "a3": "Evet! Finwise dünya genelinde 10.000'den fazla finans kuruluşuyla bağlantıyı destekler. Hesaplarınızı bağlamak için güvenli portalımız üzerinden giriş yapmanız yeterlidir.",
+        "q4": "Yatırım özelliklerini kullanmak için finansal uzmanlığa ihtiyacım var mı?",
+        "a4": "Hiç de değil! Uzman tarafından hazırlanmış portföylerimiz ve eğitim kaynaklarımız, deneyim seviyesine bakılmaksızın yatırımı herkes için erişilebilir hale getirmektedir.",
+        "q5": "Uygulamayı kullanırken yardıma ihtiyacım olursa ne yapmalıyım?",
+        "a5": "Özel destek ekibimiz sohbet veya e-posta yoluyla 7/24 hizmetinizdedir. Ayrıca, Finwise'dan en iyi şekilde yararlanmanıza yardımcı olmak için kapsamlı uygulama içi eğitimler ve geniş bir bilgi bankası sunuyoruz."
+    },
+    "cta": {
+        "heading": "Finanslarınızı Dönüştürmek İçin 1 Milyondan Fazla Kullanıcıya Katılın",
+        "subheading": "Finansal özgürlüğe giden yolculuğunuz burada başlıyor. Finwise'ı bugün indirin ve daha parlak bir finansal gelecek için ilk adımı atın!"
+    },
+    "footer": {
+        "subheading": "İşletmeleri en son finansal teknoloji çözümleriyle güçlendiriyoruz.",
+        "quickLinks": "Hızlı Bağlantılar",
+        "contactUs": "Bize Ulaşın",
+        "features": "Özellikler",
+        "pricing": "Fiyatlandırma",
+        "testimonials": "Referanslar"
+    },
+    "stats": {
+        "item1Title": "20M+",
+        "item1Desc": "Her gün güvenli bir şekilde işlenen işlemler, gerçek zamanlı öngörüler sağlar.",
+        "item2Title": "5.0",
+        "item2Desc": "Yıldız derecelendirmesi, uygulama mağazalarında sürekli olarak korunmaktadır.",
+        "item3Title": "200+",
+        "item3Desc": "Finansal Kurum, sorunsuz bir şekilde entegre edilmiştir, böylece tüm hesapları yönetebilirsiniz."
+    },
+    "benefits": {
+        "section1Title": "Akıllı Bütçeleme",
+        "section1Desc": "Paranızı yönetirken tahmine dayalı işleri ortadan kaldırın. Yapay zeka destekli bütçeleme aracımız yaşam tarzınıza uyum sağlar ve yolda kalmanıza yardımcı olur.",
+        "section1Bullet1Title": "Akıllı Kategorizasyon",
+        "section1Bullet1Desc": "Net içgörüler için işlemlerinizi otomatik olarak sıralar.",
+        "section1Bullet2Title": "Özelleştirilebilir Hedefler",
+        "section1Bullet2Desc": "Sizin için önemli olan finansal hedefleri belirleyin ve takip edin.",
+        "section1Bullet3Title": "Öngörülü Analiz",
+        "section1Bullet3Desc": "Harcama tahminleri ve uyarılarla finansınızın önüne geçin.",
+        "section2Title": "Kesintisiz Yatırım",
+        "section2Desc": "Bugün servet biriktirmeye başlayın, finans diplomasına gerek yok. Finwise yatırımı erişilebilir ve basit hale getirir.",
+        "section2Bullet1Title": "Mikro Yatırım",
+        "section2Bullet1Desc": "1 dolar kadar az bir miktarla başlayın ve paranızın büyümesini izleyin.",
+        "section2Bullet2Title": "Uzman Portföyleri",
+        "section2Bullet2Desc": "Risk toleransınıza göre uyarlanmış yatırım stratejileri arasından seçim yapın.",
+        "section2Bullet3Title": "Gerçek Zamanlı Performans",
+        "section2Bullet3Desc": "Yatırımlarınızı anlaşılması kolay metrikler ve görsellerle takip edin.",
+        "section3Title": "Banka Düzeyinde Güvenlik",
+        "section3Desc": "Finansal verileriniz en iyi korumayı hak ediyor. Finwise'ın en son güvenlik önlemlerini kullandığını bilerek içiniz rahat olsun.",
+        "section3Bullet1Title": "Askeri Düzeyde Şifreleme",
+        "section3Bullet1Desc": "Bilgileriniz en yüksek düzeyde şifreleme ile korunmaktadır.",
+        "section3Bullet2Title": "Biyometrik Kimlik Doğrulama",
+        "section3Bullet2Desc": "Parmak izi veya yüz tanıma ile hesabınıza güvenli bir şekilde erişin.",
+        "section3Bullet3Title": "Gerçek Zamanlı Dolandırıcılık Tespiti",
+        "section3Bullet3Desc": "Sistemimiz, paranızı güvende tutmak için şüpheli etkinlikleri sürekli izler."
+    },
+    "contact_us": {
+        "badge": "İletişim",
+        "title": "Fikirleriniz mi var? Bizde <br /> beceriler var. Takım olalım.",
+        "subtitle": "Bize kendinizden و aklınızdakilerden biraz bahsedin,",
+        "name_placeholder": "Adınız Soyadınız",
+        "email_placeholder": "sirketiniz@mail.com",
+        "phone_placeholder": "Telefon numaranız (isteğe bağlı)",
+        "subject_placeholder": "Konuyu girin",
+        "company_placeholder": "Şirket adınız (isteğe bağlı)",
+        "project_placeholder": "Projeniz hakkında biraz bilgi verin",
+        "submit_btn": "Hadi Başlayalım",
+        "support_title": "Destekle sohbet et",
+        "support_subtitle": "Size yardımcı olmak için burayız.",
+        "whatsapp_link": "WhatsApp'ta Sohbet Et"
+    },
+    "about_page": {
+        "hero_title": "Önemli olan bir<br />etki yaratmak.",
+        "hero_subtitle": "Yaratıcı ve kendini işine adamış profesyonellerden oluşan ekibimizle sektörler genelinde sağlam dijital çözümler üretiyoruz.",
+        "hero_cta": "Bize Ulaşın",
+        "about_section_title": "Fintech Hakkında",
+        "about_section_text": "Fintech'e hoş geldiniz - sadece bir BT çözümleri sağlayıcısı değiliz; inovasyonda ortaklarınızız. Teknolojinin sınırlarını zorlamaya amansız bir odaklanmayla, iş olanaklarını yeniden tanımlayan son teknoloji çözümler sunuyoruz. Yazılım geliştirmeden dijital pazarlamaya kadar bir dizi hizmeti tek çatı altında sunarak, tamamen dijitalleşen bir dünyada işletmeleri büyüme için güçlendiriyoruz.",
+        "values_title": "Benzersiz Değerlerimiz",
+        "values_subtitle": "Bizi belirli bir yöne yönlendiren benzersiz bir vizyon ve değerlere sahibiz. Deneyimimiz ve operasyonel mükemmelliğe olan bağlılığımız başarılı teslimatları garanti eder.",
+        "values": {
+            "innovation_title": "İnovasyon",
+            "innovation_body": "Eğrinin önünde kalmak için sürekli yeni teknolojiler ve metodolojiler keşfediyoruz. İnovasyon yaptığımız her şeyin merkezinde yer alır.",
+            "quality_title": "Kalite",
+            "quality_body": "İnşa ettiğimiz her şeyde en yüksek kaliteyi sunmaya kararlıyız. Koddan tasarıma kadar her ayrıntı, müşteri beklentilerini aşacak şekilde rafine edilir.",
+            "customer_centric_title": "Müşteri Odaklı Yaklaşım",
+            "customer_centric_body": "Müşterilerimiz aldığımız her kararın merkezindedir. Her benzersiz iş sorunu için en iyi sonuçları sağlamak üzere dinler, uyarlar ve çözümlerimizi özelleştiririz.",
+            "integrity_title": "Dürüstlük",
+            "integrity_body": "Tüm etkileşimlerimizde şeffaflık ve dürüstlükle çalışıyoruz. Güven, kurduğumuz her ortaklığın temelidir.",
+            "teamwork_title": "Takım Çalışması",
+            "teamwork_body": "Büyük şeyler birlikte inşa edilir. İşbirlikçi kültürümüz, bir bütün olarak daha güçlü çözümler sunmak için çeşitli yetenekleri ve bakış açılarını bir araya getirir."
+        },
+        "stats": {
+            "uptime": "Üretim Genelinde Çalışma Süresi",
+            "value": "Teknoloji Odaklı Değer",
+            "partnerships": "İş Ortaklıkları",
+            "markets": "Küresel Pazarlar"
+        }
+    },
+    "services_page": {
+        "hero_title": "Gerçek Etki İçin<br />İnşa Edilen Hizmetler.",
+        "hero_subtitle": "Yapay zeka ajanlarından bulut altyapısına kadar, modern işletmelere güç veren uçtan uca teknoloji çözümleri sunuyoruz.",
+        "hero_cta": "Hizmetleri Keşfedin",
+        "showcase_subtitle": "Uzmanlığımız",
+        "showcase_title": "İhtiyacınız Olan Her Şey,<br />Tek Çatı Altında",
+        "services": {
+            "ai_title": "Yapay Zeka Ajan Geliştirme",
+            "ai_tagline": "Ölçeklenebilir akıllı otomasyon",
+            "ai_desc": "İş akışlarınıza göre uyarlanmış özel yapay zeka ajanları tasarlıyor ve dağıtıyoruz. RAG tabanlı bilgi sistemlerinden çoklu ajan koordinasyonuna kadar, maliyetleri azaltan ve çıktıyı artıran otonom çözümler oluşturuyoruz.",
+            "web_title": "Web ve SaaS Geliştirme",
+            "web_tagline": "Yüksek performanslı dijital ürünler",
+            "web_desc": "MVP'lerden kurumsal düzeyde SaaS platformlarına kadar, Next.js ve bulut tabanlı altyapı kullanarak ölçeklenebilir web uygulamaları tasarlıyoruz.",
+            "cloud_title": "Bulut ve DevOps",
+            "cloud_tagline": "Sizinle birlikte ölçeklenen altyapı",
+            "cloud_desc": "AWS, GCP ve Azure üzerinde bulut altyapısını hazırlıyor, otomatikleştiriyor ve izliyoruz. CI/CD boru hatları, Docker konteynerleştirme, Kubernetes orkestrasyonu - yığınınız kurşun geçirmez.",
+            "qa_title": "Kalite Güvencesi ve Test",
+            "qa_tagline": "Kusursuz teslimat için hassas QA",
+            "qa_desc": "QA mühendislerimiz, her sürümün hatasız olmasını sağlamak için ekibinize dahil olur. Manuel testler, otomatik test süitleri ve güvenlik denetimleri - hepsi kapsamımızda.",
+            "design_title": "UI/UX Tasarımı",
+            "design_tagline": "İnsanların kullanmayı sevdiği arayüzler",
+            "design_desc": "Dönüşüm sağlayan ürün deneyimleri tasarlıyoruz. Tel çerçevelerden Figma'daki yüksek kaliteli prototiplere kadar, güzel tasarım ile mühendislik gerçekliği arasındaki boşluğu köprülüyoruz.",
+            "marketing_title": "Dijital Pazarlama ve SEO",
+            "marketing_tagline": "Zamanla birleşen büyüme",
+            "marketing_desc": "Veriye dayalı SEO, içerik stratejisi ve ücretli kampanyalarla dijital varlığınızı büyütüyoruz. Daha fazla trafik. Daha iyi potansiyel müşteriler."
+        },
+        "process_subtitle": "Nasıl Çalışıyoruz",
+        "process_title": "Sürecimiz",
+        "process": {
+            "discovery_title": "Keşif",
+            "discovery_desc": "İş hedeflerinize, sorun noktalarınıza ve teknik ortamınıza derinlemesine dalıyoruz.",
+            "strategy_title": "Strateji",
+            "strategy_desc": "Net bir yol haritası, teknoloji yığını ve teslimat zaman çizelgesi tasarlıyoruz.",
+            "build_title": "İnşa",
+            "build_desc": "Çevik sprintler, haftalık demolar ve süreç boyunca şeffaf iletişim.",
+            "launch_title": "Lansman",
+            "launch_desc": "Başarıyı sağlamak için titiz QA, kurulum ve lansman sonrası destek."
+        },
+        "cta_title": "Olağanüstü bir şey inşa etmeye hazır mısınız?",
+        "cta_subtitle": "Bize projenizden bahsedin, 24 saat içinde size geri dönelim.",
+        "cta_btn": "Hadi Başlayalım"
+    },
+    "blogs_page": {
+        "hero_title": "Gerçek Zihinler <br /> İçin İnşa Edilen <span class=\"text-[#7c3aed]\">Hikayeler.</span>",
+        "hero_subtitle": "Finwise uzmanlarından yapay zeka, makine öğrenimi ve dijital strateji üzerine derinlemesine incelemeler.",
+        "hero_cta": "Blogları Keşfedin",
+        "read_time": "dk Okuma",
+        "blogs": {
+            "blog1_title": "Chatgpt vs Deepseek AI: 2026'da İşletmeniz İçin Hangisi Doğru?",
+            "blog1_desc": "Önde gelen iki yapay zeka devi arasındaki temel farkları ve işletme ihtiyaçlarınız için doğru olanı nasıl seçeceğinizi keşfedin.",
+            "blog2_title": "2025'te Makine Öğrenimi Yapay Zeka Sistemleri",
+            "blog2_desc": "En son çoklu ajan sistemlerine ve bunların Büyük Dil Modelleri hakkındaki düşüncelerimizi nasıl devrim niteliğinde değiştirdiğine derinlemesine bir bakış.",
+            "blog3_title": "Başlamak için Ücretsiz Whitehat SEO İpuçları",
+            "blog3_desc": "Arama motorlarından ceza alma riski olmadan organik trafiğinizi artırmak için en güvenli ve etkili SEO stratejilerini öğrenin."
+        }
+    }
+}

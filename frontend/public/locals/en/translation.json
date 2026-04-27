@@ -1,0 +1,254 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "projects": "Projects",
+        "blogs": "Blogs",
+        "contact": "Contact Us"
+    },
+    "hero": {
+        "heading": "Architecting the Future: Bespoke AI Agents, High-Performance Web, and Precision QA"
+    },
+    "section43": {
+        "yearTitle": "Year of establishment",
+        "yearSubtitle": "More than 10 years in the field",
+        "projectsTitle": "Projects are launched",
+        "projectsSubtitle": "A lot of projects are done",
+        "clientsTitle": "Clients are satisfied",
+        "clientsSubtitle": "These people love us",
+        "inWorkTitle": "Projects in work",
+        "inWorkSubtitle": "What we do right now"
+    },
+    "globe": {
+        "heading1": "Building Tomorrow,",
+        "heading2": "Today",
+        "contactBtn": "Contact Us"
+    },
+    "techStack": {
+        "heading": "Our Tech Stack",
+        "description": "Our software development company is composed of certified experts with comprehensive knowledge and experience in:"
+    },
+    "ourProjects": {
+        "heading": "Our Projects",
+        "description": "With a track record of successful projects and satisfied clients, we strive for excellence in every endeavor, ensuring that our best work becomes a catalyst for our client's success.",
+        "exploreMore": "Explore More",
+        "project1Title": "Smart Travel Planner and Recommendation System",
+        "project1Desc": "Our smart travel planner is an AI-powered platform designed to make travel effortless. By simply entering your starting point and destination, the system provides tailored recommendations, optimal routes, and seamless booking options. It ensures a personalized, efficient, and stress-free travel experience for every user.",
+        "project2Title": "SaaS Product",
+        "project2Desc": "Our ERP SaaS product is a cloud-based solution that simplifies and unifies business operations. It enables organizations to manage finances, track inventory, handle HR processes, and monitor performance through a single intuitive dashboard. With real-time analytics and automation, businesses can scale faster and operate more efficiently.",
+        "project3Title": "RAG-Based AI HR Assistant System",
+        "project3Desc": "A RAG-based AI-powered HR agent designed to streamline and automate human resource operations. The system leverages Retrieval-Augmented Generation (RAG) to access and analyze data from internal databases and reference PDFs, enabling accurate and context-aware responses.",
+        "project4Title": "E-Commerce Platform",
+        "project4Desc": "A modern e-commerce platform designed to provide a seamless online shopping experience. Users can browse products, add items to their cart, and securely complete purchases."
+    },
+    "blogs": {
+        "heading": "Stay Ahead with Our Blogs",
+        "label": "Blogs",
+        "viewAll": "View All"
+    },
+    "pricing": {
+        "title": "Pricing",
+        "description": "Simple, transparent pricing. No surprises.",
+        "tier1Name": "Starter",
+        "tier1Price": "29",
+        "tier1Features": [
+            "Basic cloud integration",
+            "Up to 5 team members",
+            "20GB storage",
+            "Email support"
+        ],
+        "tier2Name": "Pro",
+        "tier2Price": "99",
+        "tier2Features": [
+            "Advanced cloud integration",
+            "Up to 20 team members",
+            "100GB storage",
+            "Priority email & phone support",
+            "Advanced analytics"
+        ],
+        "tier3Name": "Enterprise",
+        "tier3Price": "Custom",
+        "tier3Features": [
+            "Full cloud integration",
+            "Unlimited team members",
+            "Unlimited storage",
+            "24/7 dedicated support",
+            "Custom solutions",
+            "On-site training"
+        ],
+        "cta": "Get Started"
+    },
+    "testimonials": {
+        "title": "What Our Clients Say",
+        "description": "Hear from those who have partnered with us.",
+        "item1Name": "John Smith",
+        "item1Role": "CEO at Company",
+        "item1Message": "Finwise's AI-driven insights have transformed how we approach financial planning for our clients. It's an invaluable resource in the modern financial landscape.",
+        "item2Name": "Jane Doe",
+        "item2Role": "CTO at Startup",
+        "item2Message": "As a CTO, I'm impressed by Finwise's robust security measures and seamless integrations. It's rare to find an app that balances user-friendliness with such advanced technology.",
+        "item3Name": "Emily Johnson",
+        "item3Role": "Product Manager",
+        "item3Message": "Finwise is revolutionizing personal finance management. Its intuitive design and powerful features make it an indispensable tool for anyone serious about financial growth."
+    },
+    "faq": {
+        "label": "FAQ'S",
+        "heading": "Frequently Asked Questions",
+        "askUs": "Ask us anything!",
+        "q1": "Is Finwise secure?",
+        "a1": "Absolutely. We use bank-level encryption to protect your data and never store your login information. Plus, our biometric authentication adds an extra layer of security.",
+        "q2": "Can I use Finwise on multiple devices?",
+        "a2": "Absolutely! Your Finwise account syncs seamlessly across all your devices - smartphone, tablet, and computer.",
+        "q3": "Can I connect all my bank accounts?",
+        "a3": "Yes! Finwise supports connections with over 10,000 financial institutions worldwide. Simply log in through our secure portal to link your accounts.",
+        "q4": "Do I need any financial expertise to use the investing features?",
+        "a4": "Not at all! Our expert-curated portfolios and educational resources make investing accessible to everyone, regardless of experience level.",
+        "q5": "What if I need help using the app?",
+        "a5": "Our dedicated support team is available 24/7 via chat or email. Plus, we offer extensive in-app tutorials and a comprehensive knowledge base to help you make the most of Finwise."
+    },
+    "cta": {
+        "heading": "Join Over 1 Million Users To Transform Your Finances",
+        "subheading": "Your journey to financial freedom starts here. Download Finwise today and take the first step towards a brighter financial future!"
+    },
+    "footer": {
+        "subheading": "Empowering businesses with cutting-edge financial technology solutions.",
+        "quickLinks": "Quick Links",
+        "contactUs": "Contact Us",
+        "features": "Features",
+        "pricing": "Pricing",
+        "testimonials": "Testimonials"
+    },
+    "stats": {
+        "item1Title": "20M+",
+        "item1Desc": "Transactions processed securely every day, providing real-time insights.",
+        "item2Title": "5.0",
+        "item2Desc": "Star rating, consistently maintained across app stores.",
+        "item3Title": "200+",
+        "item3Desc": "Financial Institutions, seamlessly integrated, so you can manage all accounts."
+    },
+    "benefits": {
+        "section1Title": "Smart Budgeting",
+        "section1Desc": "Take the guesswork out of managing your money. Our AI-powered budgeting tool adapts to your lifestyle and helps you stay on track.",
+        "section1Bullet1Title": "Intelligent Categorization",
+        "section1Bullet1Desc": "Automatically sorts your transactions for crystal-clear insights.",
+        "section1Bullet2Title": "Customizable Goals",
+        "section1Bullet2Desc": "Set and track financial objectives that matter to you.",
+        "section1Bullet3Title": "Predictive Analysis",
+        "section1Bullet3Desc": "Get ahead of your finances with spending forecasts and alerts.",
+        "section2Title": "Seamless Investing",
+        "section2Desc": "Start building wealth today, no financial degree required. Finwise makes investing accessible and straightforward.",
+        "section2Bullet1Title": "Micro-Investing",
+        "section2Bullet1Desc": "Begin with as little as $1 and watch your money grow.",
+        "section2Bullet2Title": "Expert Portfolios",
+        "section2Bullet2Desc": "Choose from investment strategies tailored to your risk tolerance.",
+        "section2Bullet3Title": "Real-Time Performance",
+        "section2Bullet3Desc": "Track your investments with easy-to-understand metrics and visuals.",
+        "section3Title": "Bank-Grade Security",
+        "section3Desc": "Your financial data deserves the best protection. Rest easy knowing Finwise employs cutting-edge security measures.",
+        "section3Bullet1Title": "Military-Grade Encryption",
+        "section3Bullet1Desc": "Your information is safeguarded with the highest level of encryption.",
+        "section3Bullet2Title": "Biometric Authentication",
+        "section3Bullet2Desc": "Access your account securely with fingerprint or facial recognition.",
+        "section3Bullet3Title": "Real-Time Fraud Detection",
+        "section3Bullet3Desc": "Our system constantly monitors for suspicious activity to keep your money safe."
+    },
+    "contact_us": {
+        "badge": "Contact",
+        "title": "Got ideas? We've got the <br /> skills. Let's team up.",
+        "subtitle": "Tell us more about yourself and what you've got in mind,",
+        "name_placeholder": "Your full-name",
+        "email_placeholder": "yourcompany@mail.com",
+        "phone_placeholder": "Your phone number (optional)",
+        "subject_placeholder": "Enter your subject",
+        "company_placeholder": "Your company name (optional)",
+        "project_placeholder": "Tell us a little about your project",
+        "submit_btn": "Let's Get Started",
+        "support_title": "Chat to support",
+        "support_subtitle": "We're here to help.",
+        "whatsapp_link": "Chat on WhatsApp"
+    },
+    "about_page": {
+        "hero_title": "Making an impact<br />that matters.",
+        "hero_subtitle": "We build robust digital solutions across industries with a highly creative and dedicated team of professionals.",
+        "hero_cta": "Contact us",
+        "about_section_title": "About fintech",
+        "about_section_text": "Welcome to fintech - more than just an IT solutions provider; we are your partners in innovation. With a relentless focus on pushing the boundaries of technology, we deliver cutting-edge solutions that redefine business possibilities. We offer a suite of services, from software development to digital marketing, under one roof, powering businesses for growth in a world that is going fully digital.",
+        "values_title": "Our Unique Values",
+        "values_subtitle": "We have a unique vision and values guiding us in a specific direction. Our experience and commitment to operational excellence guarantee successful deliveries. But we go beyond creating exceptional solutions – we aim to be your trusted business partner.",
+        "values": {
+            "innovation_title": "Innovation",
+            "innovation_body": "We are constantly exploring new technologies and methodologies to stay ahead of the curve. Innovation is at the heart of everything we do, driving us to develop creative and effective solutions for our clients.",
+            "quality_title": "Quality",
+            "quality_body": "We are committed to delivering the highest quality in everything we build. From code to design, every detail is refined to meet and exceed client expectations.",
+            "customer_centric_title": "Customer-Centric Approach",
+            "customer_centric_body": "Our clients are at the core of every decision we make. We listen, adapt, and tailor our solutions to ensure the best outcomes for each unique business challenge.",
+            "integrity_title": "Integrity",
+            "integrity_body": "We operate with transparency and honesty in all our interactions. Trust is the foundation of every partnership we build.",
+            "teamwork_title": "Teamwork",
+            "teamwork_body": "Great things are built together. Our collaborative culture brings diverse talent and perspectives to deliver solutions that are stronger as a whole."
+        },
+        "stats": {
+            "uptime": "Uptime Across Production",
+            "value": "Technology Driven Value",
+            "partnerships": "Business Partnerships",
+            "markets": "Global Markets"
+        }
+    },
+    "services_page": {
+        "hero_title": "Services Built for<br />Real Impact.",
+        "hero_subtitle": "From AI agents to cloud infrastructure — we deliver end-to-end technology solutions that power modern businesses.",
+        "hero_cta": "Explore Services",
+        "showcase_subtitle": "Our Expertise",
+        "showcase_title": "Everything You Need,<br />Under One Roof",
+        "services": {
+            "ai_title": "AI Agent Development",
+            "ai_tagline": "Intelligent automation at scale",
+            "ai_desc": "We design and deploy bespoke AI agents tailored to your business workflows. From RAG-based knowledge systems to multi-agent orchestration, we build autonomous solutions that reduce overhead and amplify output.",
+            "web_title": "Web & SaaS Development",
+            "web_tagline": "High-performance digital products",
+            "web_desc": "From MVPs to enterprise-grade SaaS platforms, we architect scalable web applications using Next.js, NestJS, and cloud-native infrastructure. We ship fast, we ship clean.",
+            "cloud_title": "Cloud & DevOps",
+            "cloud_tagline": "Infrastructure that scales with you",
+            "cloud_desc": "We provision, automate, and monitor cloud infrastructure on AWS, GCP, and Azure. CI/CD pipelines, Docker containerization, Kubernetes orchestration — your stack, bulletproofed.",
+            "qa_title": "Quality Assurance & Testing",
+            "qa_tagline": "Precision QA for flawless delivery",
+            "qa_desc": "Our QA engineers embed into your team to ensure every release is bulletproof. Manual testing, automated test suites, performance benchmarking, and security audits — all covered.",
+            "design_title": "UI/UX Design",
+            "design_tagline": "Interfaces people love to use",
+            "design_desc": "We craft product experiences that convert. From wireframes to high-fidelity prototypes in Figma, we bridge the gap between beautiful design and engineering reality.",
+            "marketing_title": "Digital Marketing & SEO",
+            "marketing_tagline": "Growth that compounds over time",
+            "marketing_desc": "We grow your digital presence with data-driven SEO, content strategy, paid campaigns, and conversion optimization. More traffic. Better leads. Measurable ROI."
+        },
+        "process_subtitle": "How We Work",
+        "process_title": "Our Process",
+        "process": {
+            "discovery_title": "Discovery",
+            "discovery_desc": "We dive deep into your business goals, pain points, and technical landscape.",
+            "strategy_title": "Strategy",
+            "strategy_desc": "We architect a clear roadmap, tech stack, and delivery timeline.",
+            "build_title": "Build",
+            "build_desc": "Agile sprints, weekly demos, and transparent communication throughout.",
+            "launch_title": "Launch",
+            "launch_desc": "Rigorous QA, deployment, and post-launch support to ensure success."
+        },
+        "cta_title": "Ready to build something extraordinary?",
+        "cta_subtitle": "Tell us about your project and we'll get back to you within 24 hours.",
+        "cta_btn": "Let's Get Started"
+    },
+    "blogs_page": {
+        "hero_title": "Stories Built <br /> for <span class=\"text-[#7c3aed]\">Real Minds.</span>",
+        "hero_subtitle": "Deep dives into AI, machine learning, and digital strategy from the experts at Finwise.",
+        "hero_cta": "Explore Blogs",
+        "read_time": "min Read",
+        "blogs": {
+            "blog1_title": "Chatgpt vs Deepseek AI: What's Right for Your Business in 2026?",
+            "blog1_desc": "Discover the core differences between the two leading AI giants and how to choose the right one for your specific business needs.",
+            "blog2_title": "Machine Learning AI Systems in 2025",
+            "blog2_desc": "A deep dive into the latest multi-agent systems and how they are revolutionizing the way we think about Large Language Models.",
+            "blog3_title": "Whitehat SEO Free Tips to get started",
+            "blog3_desc": "Learn the safest and most effective SEO strategies to grow your organic traffic without risking penalties from search engines."
+        }
+    }
+}
