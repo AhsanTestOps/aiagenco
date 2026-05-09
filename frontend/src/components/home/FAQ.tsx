@@ -25,7 +25,7 @@ const FAQ: React.FC = () => {
                 <div className="w-full border-b">
                     {faqs.map((faq, index) => (
                         <div key={index} className="overflow-hidden">
-                            <Disclosure>
+                            <Disclosure defaultOpen={index === 0}>
                                 {({ open }) => (
                                     <>
                                         <DisclosureButton className="flex items-center justify-between w-full px-6 py-8 text-left border-t group transition-colors hover:bg-gray-50/50">
