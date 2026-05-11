@@ -20,7 +20,7 @@ const projects: Project[] = [
     title: "Smart Travel Planner and Recommendation System",
     description:
       "Our smart travel planner is an AI-powered platform designed to make travel effortless. By simply entering your starting point and destination, the system provides tailored recommendations, optimal routes, and seamless booking options. It ensures a personalized, efficient, and stress-free travel experience for every user.",
-    image: "/images/1.png",
+    image: "/images/22/1.png",
     bg: "#dde3f0",
   },
   {
@@ -28,7 +28,7 @@ const projects: Project[] = [
     title: "SaaS Product",
     description:
       "Our ERP SaaS product is a cloud-based solution that simplifies and unifies business operations. It enables organizations to manage finances, track inventory, handle HR processes, and monitor performance through a single intuitive dashboard. With real-time analytics and automation, businesses can scale faster and operate more efficiently.",
-    image: "/images/2.png",
+    image: "/images/22/2.png",
     bg: "#ede9f6",
   },
   {
@@ -36,7 +36,7 @@ const projects: Project[] = [
     title: "RAG-Based AI HR Assistant System",
     description:
       "A RAG-based AI-powered HR agent designed to streamline and automate human resource operations. The system leverages Retrieval-Augmented Generation (RAG) to access and analyze data from internal databases and reference PDFs, enabling accurate and context-aware responses. It can process user prompts, retrieve relevant information, and assist with HR-related queries such as policies, employee data, and documentation. Built with an intelligent agentic architecture, the solution enhances decision-making, reduces manual effort, and improves overall efficiency in HR workflows.",
-      image: "/images/3.png",
+      image: "/images/22/3.png",
     bg: "#fce4ec",
   },
   {
@@ -44,7 +44,7 @@ const projects: Project[] = [
     title: "E-Commerce Platform",
     description:
       "A modern e-commerce platform designed to provide a seamless online shopping experience. Users can browse products, add items to their cart, and securely complete purchases. The system includes features such as product management, user authentication, and order tracking, ensuring smooth and efficient operations for both customers and administrators.",
-    image: "/images/4.png",
+    image: "/images/22/4.png",
     bg: "#e0f2f1",
   },
 ];

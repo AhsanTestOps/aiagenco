@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     siteName: 'AIAgenco',
     images: [
       {
-        url: "/images/og-image.jpg",
+        url: "/images/22/og-image.jpg",
         width: 1200,
         height: 675,
         alt: siteDetails.siteName,
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: siteDetails.metadata.title,
     description: siteDetails.metadata.description,
-    images: ["/images/twitter-image.jpg"],
+    images: ["/images/22/twitter-image.jpg"],
   },
 };
 
