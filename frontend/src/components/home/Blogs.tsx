@@ -45,7 +45,7 @@ export default function BlogsSection() {
     {
       id: 1,
       title: t("blogs_page.blogs.blog1_title"),
-      slug: "/blogs/chatgpt-vs-deepseek",
+      slug: "/blog/chatgpt-vs-deepseek",
       image: "https://images.unsplash.com/photo-1690191863988-f685cddde463?w=500&auto=format&fit=crop&q=60",
       readTime: `3 ${t("blogs_page.read_time")}`,
       author: "Malik Fahad",
@@ -56,7 +56,7 @@ export default function BlogsSection() {
     {
       id: 2,
       title: t("blogs_page.blogs.blog2_title"),
-      slug: "/blogs/machine-learning-ai",
+      slug: "/blog/machine-learning-ai",
       image: "https://images.unsplash.com/photo-1676276377440-c180867b1e47?w=500&auto=format&fit=crop&q=60",
       readTime: `2 ${t("blogs_page.read_time")}`,
       author: "Ahmed Bilal",
@@ -67,7 +67,7 @@ export default function BlogsSection() {
     {
       id: 3,
       title: t("blogs_page.blogs.blog3_title"),
-      slug: "/blogs/whitehat-seo-tips",
+      slug: "/blog/whitehat-seo-tips",
       image: "https://plus.unsplash.com/premium_photo-1726873342924-38a37c0d80be?w=500&auto=format&fit=crop&q=60",
       readTime: `3 ${t("blogs_page.read_time")}`,
       author: "Saad",

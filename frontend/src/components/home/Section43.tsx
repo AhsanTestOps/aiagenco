@@ -51,7 +51,7 @@ const Section43 = () => {
                                     separator=""
                                 />
                             ) : (
-                                "0"
+                                stat.number
                             )}
                             {stat.plus && <span>+</span>}
                             {stat.suffix && <span>{stat.suffix}</span>}

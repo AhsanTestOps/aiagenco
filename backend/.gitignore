@@ -3,6 +3,35 @@
 /node_modules
 /build
 
+# Environment variables - NEVER commit these
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+.env.private
+.env.secret
+.env.*.prod
+
+# API Keys, Secrets, and Credentials
+*.key
+*.pem
+*.pub
+.ssh/
+secrets/
+private_keys/
+api_keys/
+
+# Database - credentials and sensitive files
+*.db
+*.sqlite
+*.sqlite3
+mongodb_uri
+db_credentials.json
+database.yml
+database.json
+
 # Logs
 logs
 *.log
@@ -14,10 +43,13 @@ lerna-debug.log*
 
 # OS
 .DS_Store
+Thumbs.db
 
 # Tests
 /coverage
 /.nyc_output
+.tap
+.nyc
 
 # IDEs and editors
 /.idea
@@ -27,6 +59,7 @@ lerna-debug.log*
 *.launch
 .settings/
 *.sublime-workspace
+*.sublime-project
 
 # IDE - VSCode
 .vscode/*
@@ -45,6 +78,7 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+tmp/
 
 # Runtime data
 pids
@@ -54,3 +88,19 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Cache
+.cache
+.eslintcache
+.prettierignore
+
+# Temporary/backup files
+*.bak
+*.swp
+*.swo
+*~
+config.local.*
+
+# Package lock files (optional - uncomment if you want to manage versions)
+# package-lock.json
+# pnpm-lock.yaml
