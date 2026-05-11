@@ -1,5 +1,22 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Environment variables - NEVER commit sensitive data
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+.env.private
+.env.secret
+
+# API Keys and Secrets
+*.key
+*.pem
+*.pub
+.ssh/
+secrets/
+
 # dependencies
 /node_modules
 /.pnp
@@ -34,3 +51,31 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Cache
+.cache
+.eslintcache
+.prettierignore
+
+# Temporary files
+.tmp
+.temp
+*.tmp
+tmp/
+
+# OS files
+Thumbs.db
+*.swp
+*.swo
+*~
+.Spotlight-V100
+.Trashes
+
+# IDE / Editor
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Backups
+*.bak
+config.local.*
