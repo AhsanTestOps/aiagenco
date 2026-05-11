@@ -18,16 +18,6 @@ const nextConfig = {
       },
     ],
   },
-  async redirects() {
-    return [
-      {
-        source: '/:path*',
-        has: [{ type: 'host', value: 'aiagenco.dev' }],
-        destination: 'https://www.aiagenco.dev/:path*',
-        permanent: true,
-      },
-    ]
-  },
 };
 
 export default nextConfig;
