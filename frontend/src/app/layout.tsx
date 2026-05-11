@@ -11,13 +11,24 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: siteDetails.metadata.title,
+  metadataBase: new URL('https://www.aiagenco.dev'),
+  title: {
+    default: siteDetails.metadata.title,
+    template: '%s | AIAgenco',
+  },
   description: siteDetails.metadata.description,
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
-    title: siteDetails.metadata.title,
+    title: {
+      default: siteDetails.metadata.title,
+      template: '%s | AIAgenco',
+    },
     description: siteDetails.metadata.description,
-    url: siteDetails.siteUrl,
+    url: 'https://www.aiagenco.dev',
     type: "website",
+    siteName: 'AIAgenco',
     images: [
       {
         url: "/images/og-image.jpg",

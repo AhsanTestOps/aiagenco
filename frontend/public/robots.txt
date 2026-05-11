@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /login
+Disallow: /cmd_sco
+
+Sitemap: https://www.aiagenco.dev/sitemap.xml

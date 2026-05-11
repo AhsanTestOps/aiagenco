@@ -3,11 +3,14 @@ import About from "@/components/home/About";
 import { siteDetails } from "@/data/common/siteDetails";
 
 export const metadata: Metadata = {
-    title: "About | AIAgenco",
-    description: "Learn about AIAgenco — your AI agency partner for automation and intelligent workflows.",
+    title: "About Us | AIAgenco — AI Agency & Automation",
+    description: "Learn about AIAgenco's mission, team, and expertise in AI agents, automation, and web development. Discover how we transform businesses with intelligent solutions.",
+    alternates: {
+        canonical: '/about',
+    },
     openGraph: {
-        title: "About | AIAgenco",
-        description: "Learn about AIAgenco — your AI agency partner for automation and intelligent workflows.",
+        title: "About Us | AIAgenco",
+        description: "Learn about AIAgenco's mission, team, and expertise in AI agents, automation, and web development.",
         url: `${siteDetails.siteUrl}about`,
         type: "website",
     },

@@ -22,8 +22,8 @@ const nextConfig = {
     return [
       {
         source: '/:path*',
-        has: [{ type: 'host', value: 'www.aiagenco.dev' }],
-        destination: 'https://aiagenco.dev/:path*',
+        has: [{ type: 'host', value: 'aiagenco.dev' }],
+        destination: 'https://www.aiagenco.dev/:path*',
         permanent: true,
       },
     ]

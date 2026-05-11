@@ -3,11 +3,14 @@ import DynamicBlogs from "@/components/blogs/DynamicBlogs";
 import { siteDetails } from "@/data/common/siteDetails";
 
 export const metadata: Metadata = {
-    title: "Blog | AIAgenco",
-    description: "Read insights, tips, and industry updates from the AIAgenco team about AI, automation, and digital transformation.",
+    title: "Blog | AIAgenco — AI & Tech Insights",
+    description: "Read the latest articles on AI agents, machine learning, automation, web development, and digital transformation from the AIAgenco team.",
+    alternates: {
+        canonical: '/blogs',
+    },
     openGraph: {
         title: "Blog | AIAgenco",
-        description: "Read insights, tips, and industry updates from the AIAgenco team about AI, automation, and digital transformation.",
+        description: "Read insights and articles on AI agents, automation, and digital transformation from the AIAgenco team.",
         url: `${siteDetails.siteUrl}blogs`,
         type: "website",
     },
